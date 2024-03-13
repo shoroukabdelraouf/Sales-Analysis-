@@ -20,6 +20,10 @@
    - Total Profit Per Quarter
    - Margin % Per Segement
    - Top 10 Products By Profit
+   - Sales by Month
+   -  Total Sales By Quarter
+
+
      
 4) making slicers to fliter the data over :
    - year
