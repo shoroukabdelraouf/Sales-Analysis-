@@ -9,10 +9,16 @@
      -  total profit
      -  total quantities of products that have been sold
      -  the profit margin
-2) generating charts : 
+3) generating charts : 
+   - Margin % By Region
+   - Bottom 5 States By Margin %
+   - Bottom 5 Cities By Margin %
+   - Total Profit Per Quarter
+   - Margin % Per Segement
+   - Top 10 Products By Profit
+     
+4) making slicers to fliter the data over :
    - 
-3) 
-4) 
   
   
 
