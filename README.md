@@ -18,7 +18,10 @@
    - Top 10 Products By Profit
      
 4) making slicers to fliter the data over :
-   - 
+   - year
+   - category
+   - state
+   - region
   
   
 
