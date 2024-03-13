@@ -11,7 +11,6 @@
      -  the profit margin
 3) generating charts : 
    - Margin % By Region
-     <summary>
    - Bottom 5 States By Margin %
    - Bottom 5 Cities By Margin %
    - Total Profit Per Quarter
