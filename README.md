@@ -12,7 +12,7 @@
      - total sales 
      -  total profit
      -  total quantities of products that have been sold
-     -  the profit margin
+     -  the profit margin with an indictor that shows whether you are incresed or not comparing to the the last year.
 3) generating charts : 
    - Margin % By Region
    - Bottom 5 States By Margin %
