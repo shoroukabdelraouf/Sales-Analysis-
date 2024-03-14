@@ -8,6 +8,10 @@
       answered through the charts.
       
 ### Second : visualizing it using various charts.
+🔍 Root Cause Analysis: 
+      Understanding the 'why' . 
+      presented in the analysis of the decline in the sales in the regiion then knowing which state in this region leads to this decline ending with knowing which city in this state causes the decline .  
+      
 1) making a KPI insights that represent :
      - total sales 
      -  total profit
