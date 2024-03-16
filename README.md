@@ -18,14 +18,22 @@
      -  total quantities of products that have been sold
      -  the profit margin with an indictor that shows whether you are increased or not comparing to the the last year.
 3) generating charts : 
-   - Margin % By Region            Type: Column chart.
-   - Bottom 5 States By Margin %   Type: Column chart.
-   - Bottom 5 Cities By Margin %   Type: Column chart.
-   - Total Profit Per Quarter      Type: Line chart.
-   - Margin % Per Segement         Type: Pie chart.
-   - Top 10 Products By Profit     Type: Bar chart.
-   - Sales by Month                Type: Line chart.
-   -  Total Sales By Quarter       Type: Line chart.
+   - Margin % By Region
+      Type: Column chart.
+   - Bottom 5 States By Margin %
+     Type: Column chart.
+   - Bottom 5 Cities By Margin %
+      Type: Column chart.
+   - Total Profit Per Quarter
+       Type: Line chart.
+   - Margin % Per Segement
+       Type: Pie chart.
+   - Top 10 Products By Profit
+     Type: Bar chart.
+   - Sales by Month
+       Type: Line chart.
+   -  Total Sales By Quarter
+        Type: Line chart.
 
 
      
