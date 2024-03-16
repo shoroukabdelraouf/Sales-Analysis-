@@ -18,7 +18,7 @@
      -  total quantities of products that have been sold
      -  the profit margin with an indictor that shows whether you are increased or not comparing to the the last year.
 3) generating charts : 
-   - Margin % By Region
+   - ##  Margin % By Region
       Type: Column chart.
    - Bottom 5 States By Margin %
      Type: Column chart.
